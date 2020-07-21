@@ -1,0 +1,24 @@
+Q1 What is Python? What are the ways to install python in PC?
+Ans:
+Python is a programming language which was developed by Guido Van Rossum in 1991, marketed by Google.ython has easy syntax,less coding and large number of libraries.
+Python is an interpreted, high-level, general-purpose programming language
+There are many ways to install python in PC:
+1. Go and download the installation package from Python.org
+2. Downloading IDE based python which has inbuilt libraries .In Anaconda there are many inbuilt libraries
+3. Also various other ide are available.
+
+Q2 What are the Code Environments? and its Types.
+Code environment is a platform that consists of equipment that can be used for scripting codes, execution, developing, or testing the software.
+Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them.
+So a complete integrated platform is provided.
+
+There are 3 types of environments:
+Text Editors:
+In this programmer can write and modify the code only. These are general text editors.
+e.g Notepad,Visual Studio Code,Atom...
+*Integrated Development Environment
+All the essential tools are installed for automating the programmer's tasks like file management, selections, debug, integrations, and deployments.
+e.g PyCharm, Spyder....
+Notebook Environment:
+Ex in Jupyter Notebook we give input and get output of the code.
+We can download files as .py and also in other formats and allow line by line execution.
